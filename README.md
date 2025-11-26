@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arkemist
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...react native
+- 👋 Hi, I’m @arkemist https://arkemist.store/
+- 👀 I’m interested in ...Ai
+- 🌱 I’m currently learning ...react native, LLM's, Python
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me  akram.laamari.1@gmail.com
 
