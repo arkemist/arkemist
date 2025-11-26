@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...react native
 - 💞️ I’m looking to collaborate on ...nothing
-- 📫 How to reach me ...mail@arkemist.com
+- 📫 How to reach me ...akram.laamari.1@gmail.com
+
 
 <!---
 arkemist/arkemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
