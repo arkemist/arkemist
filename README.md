@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...react native
 - 💞️ I’m looking to collaborate on ...nothing
-- 📫 How to reach me ...akram.laamari.1@gmail.com
+- 📫 How to reach me  akram.laamari.1@gmail.com
 
 
 <!---
